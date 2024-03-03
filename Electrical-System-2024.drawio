@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-03T21:47:20.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="J--ncWncvfiCAulhTShq" version="23.1.5" type="device" pages="2">
+<mxfile host="Electron" modified="2024-03-03T21:49:34.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="BkreS17_6WUYy1gfLEVE" version="23.1.5" type="device" pages="3">
   <diagram name="ページ1" id="MsmEw--c6FERdP3mu5BJ">
     <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -795,6 +795,14 @@
         <mxCell id="8RJE6l0gULrbCF2kqVGt-50" value="44" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="650" width="20" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QWqrK7C7WNwiK7nhwsXW" name="HVBOX">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
